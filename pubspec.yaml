@@ -29,7 +29,7 @@ dependencies:
   camera_platform_interface: 
 
   collection: '>=1.18.0 <2.0.0'
-  path: ^1.8.4
+  path: 
   photo_manager: 
   photo_manager_image_provider: 
   sensors_plus: 
