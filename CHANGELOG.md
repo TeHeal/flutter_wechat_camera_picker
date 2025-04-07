@@ -6,9 +6,12 @@ that can be found in the LICENSE file. -->
 
 See the [Migration Guide](guides/migration_guide.md) for breaking changes between versions.
 
-## Unreleased
+## 4.3.7
 
-*None.*
+### Fixes
+
+- Fix semantics with the capture button.
+- Avoid potential null operations when saving the entity.
 
 ## 4.3.6
 
